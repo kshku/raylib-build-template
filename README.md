@@ -1,5 +1,5 @@
 # raylib-build-template
-Template repo to quickly get started with raylib development for **Desktop and Android** using **C/C++** and **CMake** without Android Studio.  
+Template repo to quickly get started with raylib development for **Desktop and Android without Android Studio**.  
 Inspired by [gxbuild](https://github.com/gtrxAC/gxbuild).
 
 ## Setting up
