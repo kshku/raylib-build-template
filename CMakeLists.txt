@@ -15,6 +15,6 @@ elseif(TARGET_PLATFORM STREQUAL "Android")
     add_library(${APP_NAME} SHARED)
 endif()
 
-add_subdirectory(external)
+add_subdirectory(external EXCLUDE_FROM_ALL)
 
 add_subdirectory(src)
